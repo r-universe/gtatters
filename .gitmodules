@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Thermimage"]
 	path = Thermimage
 	url = https://github.com/gtatters/thermimage
-	shallow = true
-	registered = true
